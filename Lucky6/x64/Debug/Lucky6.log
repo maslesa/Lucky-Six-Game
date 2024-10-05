@@ -1,0 +1,4 @@
+﻿  game.c
+D:\Projects\Lucky Six Game ( C )\Lucky Six\Lucky6\game.c(10,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Projects\Lucky Six Game ( C )\Lucky Six\Lucky6\game.c(95,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lucky6.vcxproj -> D:\Projects\Lucky Six Game ( C )\Lucky Six\x64\Debug\Lucky6.exe
